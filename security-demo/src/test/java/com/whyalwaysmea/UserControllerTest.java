@@ -55,7 +55,7 @@ public class UserControllerTest {
         System.out.println(user);
     }
 
-    @Test
+    // @Test
     public void whenUpdateSuccess() throws Exception {
         String content = "{\"id\":\"1\", \"username\":\"haha\"}";
         String user = mockMvc.perform(MockMvcRequestBuilders.put("/user/199")
