@@ -8,6 +8,5 @@ Spring Boot  + Spring Security
 5. [SpringBoot + SpringSecurity OAuth2.0 简单使用](https://blog.csdn.net/u013435893/article/details/79735097)    
 6. [SpringBoot + SpringSecurity 控制授权](https://blog.csdn.net/u013435893/article/details/79770052) 
 
-
-2019-1-24 因为数据库没有明确是哪个，随便填了个，所以也没有运行正常;但大致的思路明白了。
+1. 2019-1-24 因为数据库没有明确是哪个，随便填了个，所以也没有运行正常;但大致的思路明白了。
 
